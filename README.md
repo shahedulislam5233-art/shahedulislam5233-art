@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/1FxrU9QeiE/">
-    <img src="https://www.facebook.com/mdshahedul.islam.37191?rdid=8EaKkkDRVVHHdR9d&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1A4Fv4TM8c%2F#"/>
+    <img src="https:/img.shields.io/badge/www.facebook.com/mdshahedul.islam.37191?rdid=8EaKkkDRVVHHdR9d&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1A4Fv4TM8c%2F#"/>
   </a>
   <a href="https://www.linkedin.com/in/nakibul-islam-b8684b37b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
