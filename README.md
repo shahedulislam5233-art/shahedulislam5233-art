@@ -1,6 +1,6 @@
  # 🌟 Hi there, I'm **md.Shahedul islam** 👋
 
-<img width="600" height="400" alt="ChatGPT Image Nov 4, 2025, 10_04_38 PM" src="https://github.com/user-attachments/assets/21055b7e-17ff-4b96-a76d-67d74bec27e7" />
+<img width="1200" height="500" alt="ChatGPT Image Nov 4, 2025, 10_04_38 PM" src="https://github.com/user-attachments/assets/21055b7e-17ff-4b96-a76d-67d74bec27e7" />
 ## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
 
 ## 🌐 Connect with Me
