@@ -1,4 +1,6 @@
-## Hi there 👋
+ # 🌟 Hi there, I'm **md.Shahedul islam** 👋
+
+## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
 
 <!--
 **shahedulislam5233-art/shahedulislam5233-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
