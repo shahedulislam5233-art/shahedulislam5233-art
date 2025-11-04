@@ -3,6 +3,20 @@
 <img width="1536" height="1024" alt="ChatGPT Image Nov 4, 2025, 10_04_38 PM" src="https://github.com/user-attachments/assets/21055b7e-17ff-4b96-a76d-67d74bec27e7" />
 ## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.facebook.com/1FxrU9QeiE/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nakibul-islam-b8684b37b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ahmednakib">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 <!--
 **shahedulislam5233-art/shahedulislam5233-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
