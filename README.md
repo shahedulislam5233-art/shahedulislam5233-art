@@ -6,7 +6,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.facebook.com/1FxrU9QeiE/">
+  <a href="https://www.facebook.com/share/1VqDfcgCLT/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/nakibul-islam-b8684b37b/">
